@@ -1,0 +1,5 @@
+{
+  "name": "SyncStream",
+  "description": "A real-time synchronized YouTube watch party platform. Paste a link and everyone watches together.",
+  "requestFramePermissions": []
+}
